@@ -1,0 +1,14 @@
+Indica cuáles de los siguientes identificadores no son válidos:
+
+MARIA: Es Correcto, pero sería una constante
+María: Es Correcto, pero no es aconsejable porque tiene una tílde
+Salto_mortal: Es Correcto, pero no sigue la nomenclatura de Java
+"datos": Es Incorrecto, es una cadena de texto
+sueldo bruto: Es Incorrecto, no puede haber espacios
+saltomortal: Es Correcto, pero no sique la nomenclatura LoweCamelCase
+cu_1: Es Correcto
+58: Es Incorrecto, es un número
+salto-mortal: Es Incorrecto, no se admite el guión medio
+if: Es Incorrecto, es una palabra reservada (forma parte del lenguaje)
+_&precio: Es Incorrecto, porque tiene el símbolo &
+año: Es Correcto, pero no aconsejable

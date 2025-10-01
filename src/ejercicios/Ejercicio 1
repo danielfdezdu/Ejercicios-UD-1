@@ -1,0 +1,10 @@
+Identifica los elementos del siguiente programa.
+
+1. Declaración del paquete en el que está la clase (Fijarse que usa notación lowerCamelCase)
+3. Comentarios de Java Doc (Líneas 3-6)
+7. Declaración de la clase (UpperCamelCase)
+9. Declaración del método main
+10. Declaración de una constante (Se escriben en mayúsculas)
+12. Declaración de variables
+15. Comentario multilínea
+22. Comentario de una línea
